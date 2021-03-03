@@ -2,4 +2,4 @@
 
 Hello,
 
-My name is Riya. This is my first assignment for CSE 365!
+My name is Riya. This is my first assignment for CSE 360!
